@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BloodyContagion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BloodyContagion_jar</output-path>
+    <root id="archive" name="BloodyContagion.jar">
+      <element id="module-output" name="BloodyContagion" />
+    </root>
+  </artifact>
+</component>
