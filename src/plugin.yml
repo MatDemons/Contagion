@@ -1,0 +1,32 @@
+main: fr.MatDemons.Contagion.Contagion
+name: Contagion
+version: 1.0
+author: MatDemons
+commands:
+ contagion:
+  description: Permette d'afficher les commande
+  permission: contagion.contagion
+ contagion start:
+  description: Lancement !
+  permission: contagion.start
+ contagion stop:
+  description: Stop !
+  permission: contagion.stop
+ contagion create:
+  description: creation
+  permission: contagion.create
+ contagion remove:
+  description: destruction
+  permission: contagion.remove
+ contagion sethumain:
+  description: spawn des humain
+  permission: contagion.sethumain
+ contagion setzombie:
+  description: spawn des zombie
+  permission: contagion.setzombie
+ contagion setcoffre:
+  description: spawn du coffre selection
+  permission: contagion.setcoffre
+ contagion setlobby:
+  description: spawn du lobby avant le lancement
+  permission: contagion.setlobby
